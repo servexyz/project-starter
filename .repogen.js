@@ -4,7 +4,6 @@ const config = {
   repositories: [
     { servexyz: "react-prisma-project" },
     { servexyz: "prisma-project" },
-    { servexyz: "react-project" }
   ]
 };
 
